@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/Darren/meteor/foosboom-meteor"
+		}
+	],
+  // add this! ternjs object
+      "ternjs": {
+        "libs": ["browser", "underscore", "jquery"],
+        "plugins": {
+          "meteor": {}
+        }
+      }
+    }
+
