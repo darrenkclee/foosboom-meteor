@@ -1,5 +1,7 @@
 local
 *.py
+*.sublime-project
+*.sublime-workspace
 
 # Compiled source #
 ###################
